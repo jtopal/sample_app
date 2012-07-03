@@ -32,7 +32,7 @@ group :production do
   gem 'pg', '0.12.2'
 end
 
-# To use ActiveModel has_secure_password change 1 
+# To use ActiveModel has_secure_password change 1 2 to 3 4
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
 # To use Jbuilder templates for JSON
